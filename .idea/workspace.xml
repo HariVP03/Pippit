@@ -25,7 +25,7 @@
   <component name="ProjectId" id="1RQ9vwDoHxPyiqgi7z1wI1cPGYD" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pippit/Pippit.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ClassPlayground.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,6 +40,28 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.Pippit2">
+    <configuration name="ClassPlayground" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PippitV2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ClassPlayground.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Comp Practise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PippitV2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,6 +109,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Pippit2" />
+        <item itemvalue="Python.ClassPlayground" />
         <item itemvalue="Python.Comp Practise" />
       </list>
     </recent_temporary>
@@ -108,6 +131,17 @@
       <workItem from="1570776904574" duration="1842000" />
       <workItem from="1570940424527" duration="7405000" />
       <workItem from="1571136280818" duration="6388000" />
+      <workItem from="1571153285459" duration="1393000" />
+      <workItem from="1571271127889" duration="320000" />
+      <workItem from="1571294770230" duration="155000" />
+      <workItem from="1571320679238" duration="2945000" />
+      <workItem from="1571400977597" duration="598000" />
+      <workItem from="1571404063072" duration="3466000" />
+      <workItem from="1571484936223" duration="3854000" />
+      <workItem from="1571751024213" duration="1605000" />
+      <workItem from="1571753278196" duration="965000" />
+      <workItem from="1571796858532" duration="5017000" />
+      <workItem from="1571812450907" duration="3203000" />
     </task>
     <servers />
   </component>
@@ -115,7 +149,8 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PippitV2$Pippit2.coverage" NAME="Pippit2 Coverage Results" MODIFIED="1571144304324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PippitV2$Pippit2.coverage" NAME="Pippit2 Coverage Results" MODIFIED="1571754109715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PippitV2$Comp_Practise.coverage" NAME="Comp Practise Coverage Results" MODIFIED="1570941276972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/PippitV2$ClassPlayground.coverage" NAME="ClassPlayground Coverage Results" MODIFIED="1571753957674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
   </component>
 </project>
